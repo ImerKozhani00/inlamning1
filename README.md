@@ -18,9 +18,10 @@ En loggfil ("logg_YYYY-MM-DD.txt") skapas i "loggar/", med en tidsstämpel för 
 
 1. Öppna PowerShell.
 2. Navigera till mappen där "strukturverktyg.ps1" ligger:
-   ```powershell
+```powershell
  cd "C:\Users\Imer Kozhani\Documents\Inlamning1"
 
+```
  ## Reflektion
 
 Det här projektet har lärt mig grunderna i hur man använder PowerShell för att automatisera praktiska IT-uppgifter, som att skapa mappar, loggfiler och arbeta med felhantering.
